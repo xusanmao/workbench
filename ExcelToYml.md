@@ -3,12 +3,23 @@ Excel转yml
 
 1 部门
 
-！[](image/department.jpg)
+![](image/department.jpg)
+
+注意: 名称，类型， 分类必需有， 上级可以留空 这里是上级部门  如果名称，类型， 分类没有值，这行被忽略
 
 2 社区
 
-！[](image/community.jpg)
+![](image/community.jpg)
+
+注意：名称， 部门必需要有 一个名称对应多个服务站，就放多行 如果名称， 部门没有值，这行被忽略
 
 3 员工
 
-！[](image/employee.jpg)
+![](image/employee.jpg)
+
+注意：姓名 工号 必需有， 如果姓名 工号没有值， 这行被忽略
+
+
+4 通过以下URL进行转换
+
+http://220.115.251.49:99/
