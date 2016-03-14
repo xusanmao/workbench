@@ -9,19 +9,19 @@
 
 4 例如， 先添加一个 大区总经理 角色
 
-！[](image/daqumanager.jpg)
+![](image/daqumanager.jpg)
 
 5 例如， 添加一个 大区调度 角色
 
-！[](image/daqudiaodu.jpg)
+![](image/daqudiaodu.jpg)
 
 6 例如， 添加一个 市场站长 角色
 
-！[](image/shichangmanager.jpg)
+![](image/shichangmanager.jpg)
 
 7 例如， 添加一个 安维站长 角色
 
-！[](image/anweimanager.jpg)
+![](image/anweimanager.jpg)
 
 8 OK，总之添加角色，勾选需要的操作功能即可
 
